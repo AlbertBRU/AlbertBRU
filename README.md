@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👀 I'm Albert</h1>
 
 ## 🌱 Junior full stack dev, learning at O'clock 🏫🕘
+- 29 yo 🎂
+- Toulouse, France 📌
 <br>
 
 ## 😁 Who i am : 
@@ -22,7 +24,7 @@
 ## 📫 How to reach me :
 
 <a href="https://www.linkedin.com/in/albertbrudigital/">
- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Linkedin" width="160"/>
+ <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Linkedin" width="160" target="_blank"/>
 </a>  
 
 <!--
