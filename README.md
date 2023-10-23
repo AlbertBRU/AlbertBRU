@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👀 I'm Albert</h1>
 
 ## 🌱 Junior full stack dev, trained at O'clock School 🏫🕘
-- 30 yo 🎂
+- 31 yo 🎂
 - Toulouse, France 📌
 <br>
 
